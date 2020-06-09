@@ -2,14 +2,14 @@
 <html>  
     <head>  
         <title>  
-            Lets change the background color!
+            Lets change the background !
         </title> 
     </head>  
       
     <body style = "text-align:center;"> 
            
         <h1 style = "color:red;" >  
-            Final Project: Devops!!!! 
+            Final score: 100!!!! 
         </h1>  
           
         <p id = "UP" style = 
